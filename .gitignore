@@ -1,0 +1,5 @@
+venv
+de421*
+.env
+hip_main.dat
+__pycache__

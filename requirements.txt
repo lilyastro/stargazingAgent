@@ -1,0 +1,12 @@
+streamlit
+requests
+pytz
+astral
+geopy
+skyfield
+langchain
+langchain-community
+langchain-core
+openai
+numpy
+dateparser
